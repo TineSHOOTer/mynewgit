@@ -1,0 +1,4 @@
+my:
+  greeting: Welcome to My Home
+  list: 
+    values:apple,banana,mango 
